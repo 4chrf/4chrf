@@ -27,7 +27,7 @@ We welcome contributions from the community! If you have ideas for new tools or 
 
 ## Contact
 
-- Twitter: [@YourTwitterHandle](https://twitter.com/AshrafHoudane)
-- Email: [your.email@example.com](mailto:achrafhoudane@hotmail.com)
+- Twitter: [@4chrf](https://twitter.com/AshrafHoudane)
+- Email: [achrafhoudane@hotmail.com](mailto:achrafhoudane@hotmail.com)
 
 Thank you for visiting my repository, and we hope you find our tools valuable in your infrastructure consulting journey!
