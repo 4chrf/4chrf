@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/4chrf/your-repo-name)
 ![GitHub stars](https://img.shields.io/github/stars/4chrf/your-repo-name?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/4chrf/your-repo-name?style=social)
-![4chrf](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)
+![4chrf](https://img.shields.io/twitter/follow/AshrafHoudane)
 
 
 ## About This Repository
